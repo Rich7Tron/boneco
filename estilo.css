@@ -1,0 +1,97 @@
+*
+{
+    margin: 10px;
+}
+#principal
+{
+    padding-top: 50px;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 30px;
+    border-style: solid;
+    width: 600px;
+    height: 600px;
+    background: rgb(242, 0, 0);
+}
+#caja1
+{
+    border-radius: 50%;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    background: rgb(182, 218, 218);
+    border-style: solid;
+}
+.ojos{
+    display: flex;
+}
+#ojo1
+{
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    background: rgb(4, 4, 4);
+}
+#ojo2
+{
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    background: rgb(0, 0, 0);
+}
+#nariz
+{
+    margin: auto;
+    background: orange;
+    width: 10px;
+    height: 30px;
+    border-radius: 25%;
+    border-style: solid;
+}
+#caja3
+{
+    margin: auto;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    background: rgb(216, 216, 216);
+    border-style: solid;
+}
+.botones
+{
+    margin: 20px;
+    padding: 20px;
+}
+#btn1
+{
+    margin: auto;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: black;
+}
+#btn2
+{
+    margin: auto;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: black;
+}
+#btn3
+{
+    margin: auto;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: black;
+}
+#caja4
+{
+    border-radius: 50%;
+    margin: auto;
+    width: 200px;
+    height: 200px;
+    background: rgb(221, 227, 222);
+    border-style: solid;
+}
